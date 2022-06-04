@@ -23,14 +23,16 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Vercel][Vercel-shield]][Vercel-url]
+[![GH-Pages][GH-Pages-shield]][GH-Pages-url]
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/VENGENCE7/REPO_NAME">
+    <img src="images/553424_avangers_iron man_marvel_triangle_icon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
@@ -38,14 +40,14 @@
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/VENGENCE7/REPO_NAME"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/VENGENCE7/REPO_NAME">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/VENGENCE7/REPO_NAME/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/VENGENCE7/REPO_NAME/issues">Request Feature</a>
   </p>
 </div>
 
@@ -174,7 +176,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/VENGENCE7/REPO_NAME/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -209,10 +211,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Contact
+Bhavish Anand- bhavish007anand@gmail.com
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Project Link: [https://github.com/VENGENCE7/Wordle_Unlimited](https://github.com/VENGENCE7/Wordle_Unlimited)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Github Profile : [https://github.com/VENGENCE7](https://github.com/VENGENCE7)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -238,16 +241,30 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[contributors-url]: https://github.com/VENGENCE7/REPO_NAME/graphs/contributors
+
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[forks-url]: https://github.com/VENGENCE7/REPO_NAME/network/members
+
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[stars-url]: https://github.com/VENGENCE7/REPO_NAME/stargazers
+
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[issues-url]: https://github.com/VENGENCE7/REPO_NAME/issues
+
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[license-url]: https://github.com/VENGENCE7/REPO_NAME/blob/master/LICENSE.txt
+
+
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-url]: https://linkedin.com/in/bhavish-anand-2113a6206
+
 [product-screenshot]: images/screenshot.png
+
+[Vercel-shield]: https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
+[Vercel-url]:  https://wordle-unlimited-vengence7.vercel.app
+
+[GH-Pages-shield]:https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white
+[GH-Pages-url]: https://vengence7.github.io/Wordle_Unlimited/
